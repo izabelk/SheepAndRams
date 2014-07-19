@@ -1,0 +1,6 @@
+D:\Telerik\Homework\JacaScriptApps\WebStorages\WebStorages\bin\WebStorages.dll.config
+D:\Telerik\Homework\JacaScriptApps\WebStorages\WebStorages\bin\WebStorages.dll
+D:\Telerik\Homework\JacaScriptApps\WebStorages\WebStorages\bin\WebStorages.pdb
+D:\Telerik\Homework\JacaScriptApps\WebStorages\WebStorages\obj\Debug\WebStorages.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\JacaScriptApps\WebStorages\WebStorages\obj\Debug\WebStorages.dll
+D:\Telerik\Homework\JacaScriptApps\WebStorages\WebStorages\obj\Debug\WebStorages.pdb

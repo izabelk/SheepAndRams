@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sheep and rams</title>
+    <link href="styles/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <button id="start-btn">Start a new game</button>
+    <button id="top-players-btn">Top players</button>
+    <div></div>
+    <script src="scripts/random-number-generator.js"></script>
+    <script src="scripts/engine.js"></script>
+    <script>
+        var startGameBtn = document.getElementById('start-btn');
+        startGameBtn.addEventListener('click', function () {
+            engine.startNewGame();
+        });
+    </script>
+</body>
+</html>

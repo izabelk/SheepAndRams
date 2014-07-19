@@ -1,0 +1,41 @@
+﻿body {
+  font-family: 'Arial Black', Gadget, sans-serif;
+}
+body button {
+  border-radius: 10px;
+  display: block;
+}
+body button#start-btn {
+  margin-left: 500px;
+  padding: 10px 5px;
+  background: lightblue;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  font-size: 0.8em;
+  display: inline;
+}
+body button#top-players-btn {
+  margin-left: 10px;
+  padding: 10px 5px;
+  background: lightblue;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  font-size: 0.8em;
+  position: absolute;
+  top: 10px;
+  left: 650px;
+}
+body button#submit-btn {
+  position: absolute;
+  margin-left: 350px;
+  margin-top: -20px;
+}
+body ul#turns {
+  list-style-type: none;
+  border: 1px solid lightblue;
+  width: 500px;
+  height: 300px;
+  overflow-y: scroll;
+}
+body ul#turns li {
+  margin-left: -30px;
+}
+/*# sourceMappingURL=styles.css.map */
