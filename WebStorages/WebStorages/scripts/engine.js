@@ -36,7 +36,7 @@ var engine = (function () {
         var docFrag = document.createDocumentFragment();
 
         var label = document.createElement('label');
-        label.textContent = 'Please enter a digit: ';
+        label.textContent = 'Please enter a number: ';
         label.id = 'label-for-input-digit';
         label.setAttribute('for', 'digit-input');
 
